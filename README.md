@@ -36,18 +36,6 @@ This will generate, for each image, the posterior probabilities at each timestep
 - Tensorflow
 - OpenCV-Python
 
-## Citation
-Please cite the following paper if you use this code in your research paper:
-```
-@inproceedings{chammas2018handwriting,
-  title={Handwriting Recognition of Historical Documents with few labeled data},
-  author={Chammas, Edgard and Mokbel, Chafic and Likforman-Sulem, Laurence},
-  booktitle={2018 13th IAPR International Workshop on Document Analysis Systems (DAS)},
-  pages={43--48},
-  year={2018},
-  organization={IEEE}
-}
-```
 
 ## Acknowledgment
 We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research.
